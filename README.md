@@ -1,4 +1,4 @@
-# 🧼 Microservicio SOAP – Empleados
+#  Microservicio SOAP – Empleados
 
 Microservicio SOAP desarrollado en **Java con Spring Boot** encargado de **almacenar empleados en una base de datos MySQL**.
 
